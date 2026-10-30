@@ -1,0 +1,6 @@
+git init
+git add star_app.py requirements.txt
+git commit -m "AppStar with metallicity and HR diagram"
+git branch -M main
+git remote add origin https://github.com/<your-username>/star-app.git
+git push -u origin main
